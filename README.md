@@ -18,7 +18,7 @@ MariaDB Galera Cluster là giải pháp sao chép đồng bộ nâng cao tính s
 
 ### Mô hình
 
-pic 1
+![](/images/pic1.png)
 
 ### Thiết lập ban đầu
 
